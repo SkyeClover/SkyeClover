@@ -1,20 +1,43 @@
-## Hi there 👋
+# Hey, I'm Clover
 
-I'm **Jacob Walker**, a developer passionate about creating innovative solutions that streamline complex processes, particularly within military operations.
+I go by **Clover** for most of my online stuff.
 
-### 🔭 Current Projects
+I like making things, breaking things, learning how they work, and occasionally coming back to old projects after getting distracted by three new ideas. Most of what I build is some mix of personal tools, self-hosted systems, websites, game servers, automation, and whatever else seems interesting at the time.
 
-- **DA6 Form Generator** - React/Node.js web app that automates DA6 Duty Roster creation, eliminating hours of manual work
-- **FDC Tracking App** - React/TypeScript web app that modernizes artillery operations by streamlining ammunition tracking for AFATDS operators
-- **Walker Safety Calculator** - Python app that calculates artillery safety zones using Point-to-Point, OpArea, and Firing Point methods
+I'm still learning a lot of this as I go. I use the internet as a second brain, Cursor as a very overpowered helper, and trial-and-error as a lifestyle choice.
 
-### 🛠️ Technologies
+## What I'm Working On
 
-React, TypeScript, Node.js, JavaScript, Java, JavaFX, Python
+- Personal website and CMS experiments
+- Self-hosted tools on an Ubuntu box
+- Fire Direction / military operations tools
+- Local knowledge base projects
+- Game server and automation projects
+- Random ideas that are don't actually need projects
 
-### 📫 Connect
+## Stuff I Like
 
-- **Website:** [walkerjacob.com](https://www.walkerjacob.com/)
-- **GitHub:** [github.com/SkyeClover](https://github.com/SkyeClover)
-- **LinkedIn:** [linkedin.com/in/jacob-walker-521a33368/](https://www.linkedin.com/in/jacob-walker-521a33368/)
-- **Twitter:** [x.com/JacobWalker03](https://x.com/JacobWalker03)
+I'm a big fan of LitRPGs and hard sci-fi.
+
+Some favorite authors:
+
+- Cosimo Yap
+- Dennis E. Taylor
+- Jeremy Robinson
+- J.F. Brink
+- Exurb1a
+
+Currently listening to **14** by Peter Clines.
+
+## Links
+
+- Website: [walkerjacob.com](https://walkerjacob.com)
+- GitHub: [SkyeClover](https://github.com/SkyeClover)
+
+## Random Status
+
+```txt
+Skill level:       wood-tier Dev
+Project count:     too many
+Build style:       learn by breaking things
+Current goal:      make stuff I think is cool
